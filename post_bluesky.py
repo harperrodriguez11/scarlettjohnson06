@@ -205,8 +205,8 @@ LOOP_INTERVAL_SECONDS = 3712  # 60 minutes between cycles
 # To get a plain clickable link that opens directly with no warning, the
 # *displayed* text must be exactly the bare domain — same text Bluesky's own
 # UI would render for a link facet pointing at that domain.
-LINK_URL = "https://bnn.teentoday.cfd"
-LINK_DISPLAY_TEXT = "bnn.teentoday.cfd"
+LINK_URL = "https://hak.teentoday.cfd"
+LINK_DISPLAY_TEXT = "hak.teentoday.cfd"
 
 
 def build_post(tags: list[str]) -> TextBuilder:
